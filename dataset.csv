@@ -1,0 +1,578 @@
+question,label,table,column,value
+find the top age in customers,MAX,customers,age,
+what is the minimum amount of orders,MIN,orders,amount,
+order employees by salary descending,ORDER_BY,employees,salary,
+highest salary in employees,MAX,employees,salary,
+get products for category Electronics,SELECT_WHERE,products,category,Electronics
+show products where category is Grocery,SELECT_WHERE,products,category,Grocery
+find the mean price for products,AVG,products,price,
+find employees with city Pune,SELECT_WHERE,employees,city,Pune
+average price of products,AVG,products,price,
+what is the average amount in orders,AVG,orders,amount,
+show all customers,SELECT_ALL,customers,,
+find the top age in customers,MAX,customers,age,
+find employees with city Mumbai,SELECT_WHERE,employees,city,Mumbai
+average age of customers,AVG,customers,age,
+find the mean amount for orders,AVG,orders,amount,
+find the smallest amount in orders,MIN,orders,amount,
+average age of customers,AVG,customers,age,
+fetch all records from orders,SELECT_ALL,orders,,
+lowest amount in orders,MIN,orders,amount,
+highest age in customers,MAX,customers,age,
+average stock of products,AVG,products,stock,
+order customers by age descending,ORDER_BY,customers,age,
+show orders where status is Delivered,SELECT_WHERE,orders,status,Delivered
+sort products by price,ORDER_BY,products,price,
+how many orders are there,COUNT,orders,,
+list distinct city from employees,DISTINCT,employees,city,
+show me the products table,SELECT_ALL,products,,
+what is the average price in products,AVG,products,price,
+number of orders with city Mumbai,COUNT_WHERE,orders,city,Mumbai
+show orders where status is Pending,SELECT_WHERE,orders,status,Pending
+what is the maximum amount of orders,MAX,orders,amount,
+what are the different city in customers,DISTINCT,customers,city,
+find the smallest amount in orders,MIN,orders,amount,
+list employees whose department is IT,SELECT_WHERE,employees,department,IT
+find the mean salary for employees,AVG,employees,salary,
+number of customers with city Bangalore,COUNT_WHERE,customers,city,Bangalore
+order employees by salary descending,ORDER_BY,employees,salary,
+show products where category is Electronics,SELECT_WHERE,products,category,Electronics
+get employees for department HR,SELECT_WHERE,employees,department,HR
+what is the maximum age of employees,MAX,employees,age,
+number of orders with status Pending,COUNT_WHERE,orders,status,Pending
+order customers by age descending,ORDER_BY,customers,age,
+average amount of orders,AVG,orders,amount,
+count customers where city is Bangalore,COUNT_WHERE,customers,city,Bangalore
+count employees where city is Pune,COUNT_WHERE,employees,city,Pune
+find the top amount in orders,MAX,orders,amount,
+number of customers with city Mumbai,COUNT_WHERE,customers,city,Mumbai
+fetch all records from customers,SELECT_ALL,customers,,
+show customers where city is Bangalore,SELECT_WHERE,customers,city,Bangalore
+find the mean price for products,AVG,products,price,
+how many customers are there,COUNT,customers,,
+show me orders in status Delivered,SELECT_WHERE,orders,status,Delivered
+find the mean salary for employees,AVG,employees,salary,
+find products with category Grocery,SELECT_WHERE,products,category,Grocery
+average amount of orders,AVG,orders,amount,
+what is the minimum stock of products,MIN,products,stock,
+find the mean price for products,AVG,products,price,
+what is the maximum age of customers,MAX,customers,age,
+sort products by price,ORDER_BY,products,price,
+find orders with status Delivered,SELECT_WHERE,orders,status,Delivered
+find the top amount in orders,MAX,orders,amount,
+find the top salary in employees,MAX,employees,salary,
+find the smallest amount in orders,MIN,orders,amount,
+find employees with city Bangalore,SELECT_WHERE,employees,city,Bangalore
+what are the different department in employees,DISTINCT,employees,department,
+number of orders with status Shipped,COUNT_WHERE,orders,status,Shipped
+find the top salary in employees,MAX,employees,salary,
+what is the maximum salary of employees,MAX,employees,salary,
+find orders with city Delhi,SELECT_WHERE,orders,city,Delhi
+fetch all records from products,SELECT_ALL,products,,
+get me all products,SELECT_ALL,products,,
+sort employees by salary,ORDER_BY,employees,salary,
+find customers with city Mumbai,SELECT_WHERE,customers,city,Mumbai
+show products ranked by stock,ORDER_BY,products,stock,
+how many products have category Electronics,COUNT_WHERE,products,category,Electronics
+list orders whose status is Shipped,SELECT_WHERE,orders,status,Shipped
+how many employees have department IT,COUNT_WHERE,employees,department,IT
+lowest salary in employees,MIN,employees,salary,
+get me all customers,SELECT_ALL,customers,,
+find the top age in employees,MAX,employees,age,
+what is the average amount in orders,AVG,orders,amount,
+number of customers with city Delhi,COUNT_WHERE,customers,city,Delhi
+find the top stock in products,MAX,products,stock,
+what are the different status in orders,DISTINCT,orders,status,
+show employees where city is Delhi,SELECT_WHERE,employees,city,Delhi
+total number of products,COUNT,products,,
+what is the maximum amount of orders,MAX,orders,amount,
+list customers whose city is Chennai,SELECT_WHERE,customers,city,Chennai
+what is the average amount in orders,AVG,orders,amount,
+get orders for city Mumbai,SELECT_WHERE,orders,city,Mumbai
+order customers by age descending,ORDER_BY,customers,age,
+sort orders by amount,ORDER_BY,orders,amount,
+list distinct category from products,DISTINCT,products,category,
+average age of employees,AVG,employees,age,
+how many orders have status Shipped,COUNT_WHERE,orders,status,Shipped
+order customers by age descending,ORDER_BY,customers,age,
+average salary of employees,AVG,employees,salary,
+find the smallest salary in employees,MIN,employees,salary,
+find the mean age for employees,AVG,employees,age,
+list orders whose status is Cancelled,SELECT_WHERE,orders,status,Cancelled
+get products for category Furniture,SELECT_WHERE,products,category,Furniture
+show me products in category Electronics,SELECT_WHERE,products,category,Electronics
+show me the employees table,SELECT_ALL,employees,,
+what is the maximum salary of employees,MAX,employees,salary,
+show employees where city is Bangalore,SELECT_WHERE,employees,city,Bangalore
+show me employees in department HR,SELECT_WHERE,employees,department,HR
+find the top price in products,MAX,products,price,
+show me employees in department IT,SELECT_WHERE,employees,department,IT
+average amount of orders,AVG,orders,amount,
+list distinct status from orders,DISTINCT,orders,status,
+unique age values in employees,DISTINCT,employees,age,
+find the top salary in employees,MAX,employees,salary,
+show me employees in city Pune,SELECT_WHERE,employees,city,Pune
+sort orders by amount,ORDER_BY,orders,amount,
+order orders by amount descending,ORDER_BY,orders,amount,
+show orders ranked by amount,ORDER_BY,orders,amount,
+lowest age in customers,MIN,customers,age,
+show customers where city is Mumbai,SELECT_WHERE,customers,city,Mumbai
+how many orders have city Delhi,COUNT_WHERE,orders,city,Delhi
+total number of employees,COUNT,employees,,
+list products whose category is Electronics,SELECT_WHERE,products,category,Electronics
+find the top price in products,MAX,products,price,
+show employees where department is Marketing,SELECT_WHERE,employees,department,Marketing
+lowest salary in employees,MIN,employees,salary,
+how many customers have city Delhi,COUNT_WHERE,customers,city,Delhi
+show all orders,SELECT_ALL,orders,,
+number of orders with city Delhi,COUNT_WHERE,orders,city,Delhi
+find the mean amount for orders,AVG,orders,amount,
+give me the count of customers,COUNT,customers,,
+what is the average stock in products,AVG,products,stock,
+count orders where city is Chennai,COUNT_WHERE,orders,city,Chennai
+list orders whose city is Chennai,SELECT_WHERE,orders,city,Chennai
+find employees with city Chennai,SELECT_WHERE,employees,city,Chennai
+what is the average age in customers,AVG,customers,age,
+highest price in products,MAX,products,price,
+what is the average price in products,AVG,products,price,
+order products by price descending,ORDER_BY,products,price,
+what is the average age in customers,AVG,customers,age,
+find the smallest amount in orders,MIN,orders,amount,
+list employees whose city is Delhi,SELECT_WHERE,employees,city,Delhi
+unique stock values in products,DISTINCT,products,stock,
+what is the minimum salary of employees,MIN,employees,salary,
+find the top age in customers,MAX,customers,age,
+unique price values in products,DISTINCT,products,price,
+how many employees are there,COUNT,employees,,
+highest salary in employees,MAX,employees,salary,
+get employees for department Marketing,SELECT_WHERE,employees,department,Marketing
+display every record in products,SELECT_ALL,products,,
+list employees whose city is Mumbai,SELECT_WHERE,employees,city,Mumbai
+highest age in customers,MAX,customers,age,
+lowest price in products,MIN,products,price,
+get orders for status Cancelled,SELECT_WHERE,orders,status,Cancelled
+average salary of employees,AVG,employees,salary,
+what is the minimum price of products,MIN,products,price,
+how many employees have city Mumbai,COUNT_WHERE,employees,city,Mumbai
+count products where category is Clothing,COUNT_WHERE,products,category,Clothing
+show orders ranked by amount,ORDER_BY,orders,amount,
+find orders with status Pending,SELECT_WHERE,orders,status,Pending
+list orders whose status is Delivered,SELECT_WHERE,orders,status,Delivered
+find the mean amount for orders,AVG,orders,amount,
+unique amount values in orders,DISTINCT,orders,amount,
+show customers ranked by age,ORDER_BY,customers,age,
+find the smallest salary in employees,MIN,employees,salary,
+get employees for department Finance,SELECT_WHERE,employees,department,Finance
+lowest age in customers,MIN,customers,age,
+show employees ranked by salary,ORDER_BY,employees,salary,
+show products ranked by price,ORDER_BY,products,price,
+highest amount in orders,MAX,orders,amount,
+what are the different city in orders,DISTINCT,orders,city,
+count orders where status is Pending,COUNT_WHERE,orders,status,Pending
+find employees with department HR,SELECT_WHERE,employees,department,HR
+list employees whose department is Sales,SELECT_WHERE,employees,department,Sales
+number of products with category Furniture,COUNT_WHERE,products,category,Furniture
+find the top salary in employees,MAX,employees,salary,
+average age of customers,AVG,customers,age,
+get products for category Grocery,SELECT_WHERE,products,category,Grocery
+show employees ranked by salary,ORDER_BY,employees,salary,
+order products by price descending,ORDER_BY,products,price,
+what is the average amount in orders,AVG,orders,amount,
+list distinct department from employees,DISTINCT,employees,department,
+what is the minimum age of customers,MIN,customers,age,
+count of orders,COUNT,orders,,
+what is the minimum amount of orders,MIN,orders,amount,
+find employees with department IT,SELECT_WHERE,employees,department,IT
+list customers whose city is Bangalore,SELECT_WHERE,customers,city,Bangalore
+average age of customers,AVG,customers,age,
+find products with category Clothing,SELECT_WHERE,products,category,Clothing
+how many employees have department HR,COUNT_WHERE,employees,department,HR
+get employees for department IT,SELECT_WHERE,employees,department,IT
+sort orders by amount,ORDER_BY,orders,amount,
+show employees ranked by age,ORDER_BY,employees,age,
+what is the minimum price of products,MIN,products,price,
+number of products with category Grocery,COUNT_WHERE,products,category,Grocery
+unique department values in employees,DISTINCT,employees,department,
+what is the maximum age of customers,MAX,customers,age,
+list employees whose city is Chennai,SELECT_WHERE,employees,city,Chennai
+how many employees have city Pune,COUNT_WHERE,employees,city,Pune
+give me the count of products,COUNT,products,,
+get employees for city Chennai,SELECT_WHERE,employees,city,Chennai
+what is the maximum salary of employees,MAX,employees,salary,
+how many orders have status Pending,COUNT_WHERE,orders,status,Pending
+get employees for city Delhi,SELECT_WHERE,employees,city,Delhi
+how many employees have department Finance,COUNT_WHERE,employees,department,Finance
+show me products in category Furniture,SELECT_WHERE,products,category,Furniture
+count products where category is Electronics,COUNT_WHERE,products,category,Electronics
+show orders where status is Shipped,SELECT_WHERE,orders,status,Shipped
+lowest age in customers,MIN,customers,age,
+show customers ranked by age,ORDER_BY,customers,age,
+what is the maximum price of products,MAX,products,price,
+show employees where department is Sales,SELECT_WHERE,employees,department,Sales
+show orders where city is Delhi,SELECT_WHERE,orders,city,Delhi
+what is the maximum amount of orders,MAX,orders,amount,
+highest salary in employees,MAX,employees,salary,
+find products with category Furniture,SELECT_WHERE,products,category,Furniture
+what are the different age in employees,DISTINCT,employees,age,
+find the smallest amount in orders,MIN,orders,amount,
+what is the maximum age of customers,MAX,customers,age,
+find the mean age for customers,AVG,customers,age,
+find the mean price for products,AVG,products,price,
+lowest salary in employees,MIN,employees,salary,
+get employees for city Bangalore,SELECT_WHERE,employees,city,Bangalore
+how many products are there,COUNT,products,,
+what is the average salary in employees,AVG,employees,salary,
+how many products have category Furniture,COUNT_WHERE,products,category,Furniture
+find the smallest age in customers,MIN,customers,age,
+what is the minimum amount of orders,MIN,orders,amount,
+count employees where city is Delhi,COUNT_WHERE,employees,city,Delhi
+unique city values in customers,DISTINCT,customers,city,
+show me employees in city Mumbai,SELECT_WHERE,employees,city,Mumbai
+find the top amount in orders,MAX,orders,amount,
+number of employees with department IT,COUNT_WHERE,employees,department,IT
+sort products by price,ORDER_BY,products,price,
+number of employees with city Pune,COUNT_WHERE,employees,city,Pune
+what is the average price in products,AVG,products,price,
+number of orders with city Chennai,COUNT_WHERE,orders,city,Chennai
+highest salary in employees,MAX,employees,salary,
+sort orders by amount,ORDER_BY,orders,amount,
+show employees ranked by salary,ORDER_BY,employees,salary,
+lowest price in products,MIN,products,price,
+find the mean price for products,AVG,products,price,
+lowest salary in employees,MIN,employees,salary,
+lowest age in customers,MIN,customers,age,
+unique category values in products,DISTINCT,products,category,
+get me all employees,SELECT_ALL,employees,,
+show employees where department is HR,SELECT_WHERE,employees,department,HR
+highest amount in orders,MAX,orders,amount,
+show products where category is Clothing,SELECT_WHERE,products,category,Clothing
+sort products by price,ORDER_BY,products,price,
+find customers with city Delhi,SELECT_WHERE,customers,city,Delhi
+get orders for city Delhi,SELECT_WHERE,orders,city,Delhi
+list employees whose city is Bangalore,SELECT_WHERE,employees,city,Bangalore
+find the top amount in orders,MAX,orders,amount,
+unique city values in employees,DISTINCT,employees,city,
+number of employees with department Sales,COUNT_WHERE,employees,department,Sales
+highest amount in orders,MAX,orders,amount,
+what are the different price in products,DISTINCT,products,price,
+what is the maximum age of customers,MAX,customers,age,
+what is the maximum price of products,MAX,products,price,
+list distinct city from customers,DISTINCT,customers,city,
+what is the minimum salary of employees,MIN,employees,salary,
+what is the minimum age of customers,MIN,customers,age,
+what is the minimum age of customers,MIN,customers,age,
+what is the maximum age of customers,MAX,customers,age,
+list employees whose department is HR,SELECT_WHERE,employees,department,HR
+sort orders by amount,ORDER_BY,orders,amount,
+order orders by amount descending,ORDER_BY,orders,amount,
+lowest amount in orders,MIN,orders,amount,
+lowest age in employees,MIN,employees,age,
+list orders whose city is Delhi,SELECT_WHERE,orders,city,Delhi
+highest amount in orders,MAX,orders,amount,
+find the top salary in employees,MAX,employees,salary,
+number of employees with department Finance,COUNT_WHERE,employees,department,Finance
+find customers with city Bangalore,SELECT_WHERE,customers,city,Bangalore
+highest price in products,MAX,products,price,
+list distinct city from orders,DISTINCT,orders,city,
+find the smallest amount in orders,MIN,orders,amount,
+find the top price in products,MAX,products,price,
+what is the maximum stock of products,MAX,products,stock,
+list orders whose status is Pending,SELECT_WHERE,orders,status,Pending
+highest amount in orders,MAX,orders,amount,
+order employees by salary descending,ORDER_BY,employees,salary,
+display every record in customers,SELECT_ALL,customers,,
+what is the average price in products,AVG,products,price,
+order orders by amount descending,ORDER_BY,orders,amount,
+sort employees by salary,ORDER_BY,employees,salary,
+what is the average salary in employees,AVG,employees,salary,
+number of orders with status Delivered,COUNT_WHERE,orders,status,Delivered
+how many employees have city Bangalore,COUNT_WHERE,employees,city,Bangalore
+sort products by stock,ORDER_BY,products,stock,
+what is the average age in customers,AVG,customers,age,
+get orders for status Delivered,SELECT_WHERE,orders,status,Delivered
+find the smallest salary in employees,MIN,employees,salary,
+unique city values in orders,DISTINCT,orders,city,
+average amount of orders,AVG,orders,amount,
+number of products with category Clothing,COUNT_WHERE,products,category,Clothing
+get customers for city Chennai,SELECT_WHERE,customers,city,Chennai
+list products whose category is Clothing,SELECT_WHERE,products,category,Clothing
+sort customers by age,ORDER_BY,customers,age,
+show me orders in city Delhi,SELECT_WHERE,orders,city,Delhi
+how many products have category Grocery,COUNT_WHERE,products,category,Grocery
+find customers with city Chennai,SELECT_WHERE,customers,city,Chennai
+lowest stock in products,MIN,products,stock,
+find the mean age for customers,AVG,customers,age,
+find orders with city Chennai,SELECT_WHERE,orders,city,Chennai
+get employees for city Pune,SELECT_WHERE,employees,city,Pune
+find the smallest age in customers,MIN,customers,age,
+how many employees have department Marketing,COUNT_WHERE,employees,department,Marketing
+count of employees,COUNT,employees,,
+show orders where city is Mumbai,SELECT_WHERE,orders,city,Mumbai
+number of employees with department HR,COUNT_WHERE,employees,department,HR
+average age of customers,AVG,customers,age,
+what is the minimum amount of orders,MIN,orders,amount,
+order products by price descending,ORDER_BY,products,price,
+show me employees in department Finance,SELECT_WHERE,employees,department,Finance
+find orders with status Cancelled,SELECT_WHERE,orders,status,Cancelled
+find the smallest price in products,MIN,products,price,
+show me orders in city Mumbai,SELECT_WHERE,orders,city,Mumbai
+highest salary in employees,MAX,employees,salary,
+get orders for status Shipped,SELECT_WHERE,orders,status,Shipped
+find the smallest age in customers,MIN,customers,age,
+what is the average price in products,AVG,products,price,
+count of customers,COUNT,customers,,
+show orders where city is Chennai,SELECT_WHERE,orders,city,Chennai
+find the smallest salary in employees,MIN,employees,salary,
+what is the maximum age of customers,MAX,customers,age,
+how many employees have city Chennai,COUNT_WHERE,employees,city,Chennai
+list distinct amount from orders,DISTINCT,orders,amount,
+count products where category is Grocery,COUNT_WHERE,products,category,Grocery
+how many employees have department Sales,COUNT_WHERE,employees,department,Sales
+show employees where city is Chennai,SELECT_WHERE,employees,city,Chennai
+number of orders with status Cancelled,COUNT_WHERE,orders,status,Cancelled
+find employees with department Sales,SELECT_WHERE,employees,department,Sales
+number of customers with city Chennai,COUNT_WHERE,customers,city,Chennai
+list products whose category is Furniture,SELECT_WHERE,products,category,Furniture
+find the mean amount for orders,AVG,orders,amount,
+count of products,COUNT,products,,
+unique age values in customers,DISTINCT,customers,age,
+number of employees with department Marketing,COUNT_WHERE,employees,department,Marketing
+count employees where department is Marketing,COUNT_WHERE,employees,department,Marketing
+what is the minimum salary of employees,MIN,employees,salary,
+show products where category is Furniture,SELECT_WHERE,products,category,Furniture
+sort customers by age,ORDER_BY,customers,age,
+order employees by age descending,ORDER_BY,employees,age,
+find the mean stock for products,AVG,products,stock,
+list distinct stock from products,DISTINCT,products,stock,
+list distinct price from products,DISTINCT,products,price,
+find the mean age for customers,AVG,customers,age,
+find the mean age for customers,AVG,customers,age,
+what is the minimum salary of employees,MIN,employees,salary,
+what is the maximum amount of orders,MAX,orders,amount,
+get orders for city Chennai,SELECT_WHERE,orders,city,Chennai
+what is the maximum salary of employees,MAX,employees,salary,
+what is the minimum age of employees,MIN,employees,age,
+show products ranked by price,ORDER_BY,products,price,
+count orders where city is Delhi,COUNT_WHERE,orders,city,Delhi
+list distinct age from employees,DISTINCT,employees,age,
+count employees where department is IT,COUNT_WHERE,employees,department,IT
+show employees where department is Finance,SELECT_WHERE,employees,department,Finance
+find the mean age for customers,AVG,customers,age,
+show me employees in department Sales,SELECT_WHERE,employees,department,Sales
+find the top age in customers,MAX,customers,age,
+list employees whose department is Finance,SELECT_WHERE,employees,department,Finance
+display every record in employees,SELECT_ALL,employees,,
+get customers for city Bangalore,SELECT_WHERE,customers,city,Bangalore
+find the smallest age in customers,MIN,customers,age,
+highest age in employees,MAX,employees,age,
+show me customers in city Chennai,SELECT_WHERE,customers,city,Chennai
+show me the orders table,SELECT_ALL,orders,,
+show employees where department is IT,SELECT_WHERE,employees,department,IT
+what are the different city in employees,DISTINCT,employees,city,
+get customers for city Mumbai,SELECT_WHERE,customers,city,Mumbai
+what is the average age in employees,AVG,employees,age,
+what is the minimum age of customers,MIN,customers,age,
+get employees for city Mumbai,SELECT_WHERE,employees,city,Mumbai
+highest price in products,MAX,products,price,
+average price of products,AVG,products,price,
+order customers by age descending,ORDER_BY,customers,age,
+what is the average amount in orders,AVG,orders,amount,
+sort customers by age,ORDER_BY,customers,age,
+show me orders in city Chennai,SELECT_WHERE,orders,city,Chennai
+how many customers have city Bangalore,COUNT_WHERE,customers,city,Bangalore
+list distinct age from customers,DISTINCT,customers,age,
+find the mean amount for orders,AVG,orders,amount,
+average salary of employees,AVG,employees,salary,
+count orders where city is Mumbai,COUNT_WHERE,orders,city,Mumbai
+show customers ranked by age,ORDER_BY,customers,age,
+count customers where city is Delhi,COUNT_WHERE,customers,city,Delhi
+order orders by amount descending,ORDER_BY,orders,amount,
+lowest age in customers,MIN,customers,age,
+average age of customers,AVG,customers,age,
+get orders for status Pending,SELECT_WHERE,orders,status,Pending
+count customers where city is Chennai,COUNT_WHERE,customers,city,Chennai
+sort customers by age,ORDER_BY,customers,age,
+list employees whose city is Pune,SELECT_WHERE,employees,city,Pune
+find the top price in products,MAX,products,price,
+highest stock in products,MAX,products,stock,
+count orders where status is Shipped,COUNT_WHERE,orders,status,Shipped
+number of employees with city Mumbai,COUNT_WHERE,employees,city,Mumbai
+count employees where city is Mumbai,COUNT_WHERE,employees,city,Mumbai
+find the top amount in orders,MAX,orders,amount,
+find the smallest price in products,MIN,products,price,
+find the mean age for customers,AVG,customers,age,
+find employees with department Finance,SELECT_WHERE,employees,department,Finance
+find the smallest stock in products,MIN,products,stock,
+show orders ranked by amount,ORDER_BY,orders,amount,
+find employees with department Marketing,SELECT_WHERE,employees,department,Marketing
+count employees where department is Finance,COUNT_WHERE,employees,department,Finance
+order customers by age descending,ORDER_BY,customers,age,
+sort employees by age,ORDER_BY,employees,age,
+get employees for department Sales,SELECT_WHERE,employees,department,Sales
+find the smallest age in employees,MIN,employees,age,
+what is the minimum salary of employees,MIN,employees,salary,
+show customers ranked by age,ORDER_BY,customers,age,
+list all customers,SELECT_ALL,customers,,
+give me the count of employees,COUNT,employees,,
+highest age in customers,MAX,customers,age,
+unique salary values in employees,DISTINCT,employees,salary,
+give me the count of orders,COUNT,orders,,
+show all employees,SELECT_ALL,employees,,
+what is the minimum price of products,MIN,products,price,
+show orders ranked by amount,ORDER_BY,orders,amount,
+show customers ranked by age,ORDER_BY,customers,age,
+show employees where city is Pune,SELECT_WHERE,employees,city,Pune
+unique status values in orders,DISTINCT,orders,status,
+number of products with category Electronics,COUNT_WHERE,products,category,Electronics
+list customers whose city is Delhi,SELECT_WHERE,customers,city,Delhi
+show employees ranked by salary,ORDER_BY,employees,salary,
+show me orders in status Pending,SELECT_WHERE,orders,status,Pending
+order orders by amount descending,ORDER_BY,orders,amount,
+show me orders in status Cancelled,SELECT_WHERE,orders,status,Cancelled
+find the mean salary for employees,AVG,employees,salary,
+how many orders have status Delivered,COUNT_WHERE,orders,status,Delivered
+show me employees in city Chennai,SELECT_WHERE,employees,city,Chennai
+what is the minimum price of products,MIN,products,price,
+what is the average salary in employees,AVG,employees,salary,
+highest amount in orders,MAX,orders,amount,
+what is the maximum price of products,MAX,products,price,
+highest age in customers,MAX,customers,age,
+find the top amount in orders,MAX,orders,amount,
+show customers where city is Chennai,SELECT_WHERE,customers,city,Chennai
+list all employees,SELECT_ALL,employees,,
+what is the maximum price of products,MAX,products,price,
+what is the average age in customers,AVG,customers,age,
+lowest price in products,MIN,products,price,
+average salary of employees,AVG,employees,salary,
+find the smallest age in customers,MIN,customers,age,
+show all products,SELECT_ALL,products,,
+how many orders have status Cancelled,COUNT_WHERE,orders,status,Cancelled
+lowest amount in orders,MIN,orders,amount,
+order employees by salary descending,ORDER_BY,employees,salary,
+sort orders by amount,ORDER_BY,orders,amount,
+highest age in customers,MAX,customers,age,
+list orders whose city is Mumbai,SELECT_WHERE,orders,city,Mumbai
+show employees where city is Mumbai,SELECT_WHERE,employees,city,Mumbai
+lowest amount in orders,MIN,orders,amount,
+what is the average age in customers,AVG,customers,age,
+fetch all records from employees,SELECT_ALL,employees,,
+show me customers in city Delhi,SELECT_WHERE,customers,city,Delhi
+what is the minimum price of products,MIN,products,price,
+find the mean salary for employees,AVG,employees,salary,
+what is the minimum age of customers,MIN,customers,age,
+show products ranked by price,ORDER_BY,products,price,
+show me customers in city Mumbai,SELECT_WHERE,customers,city,Mumbai
+get products for category Clothing,SELECT_WHERE,products,category,Clothing
+how many products have category Clothing,COUNT_WHERE,products,category,Clothing
+lowest age in customers,MIN,customers,age,
+total number of orders,COUNT,orders,,
+what is the average age in customers,AVG,customers,age,
+find orders with city Mumbai,SELECT_WHERE,orders,city,Mumbai
+lowest amount in orders,MIN,orders,amount,
+find the top age in customers,MAX,customers,age,
+count orders where status is Delivered,COUNT_WHERE,orders,status,Delivered
+show me employees in city Bangalore,SELECT_WHERE,employees,city,Bangalore
+count employees where city is Chennai,COUNT_WHERE,employees,city,Chennai
+what are the different amount in orders,DISTINCT,orders,amount,
+count employees where department is HR,COUNT_WHERE,employees,department,HR
+show orders ranked by amount,ORDER_BY,orders,amount,
+find the smallest age in customers,MIN,customers,age,
+average price of products,AVG,products,price,
+find the smallest price in products,MIN,products,price,
+show me employees in city Delhi,SELECT_WHERE,employees,city,Delhi
+order employees by salary descending,ORDER_BY,employees,salary,
+find products with category Electronics,SELECT_WHERE,products,category,Electronics
+show me products in category Grocery,SELECT_WHERE,products,category,Grocery
+list all orders,SELECT_ALL,orders,,
+how many customers have city Chennai,COUNT_WHERE,customers,city,Chennai
+highest price in products,MAX,products,price,
+get me all orders,SELECT_ALL,orders,,
+what is the minimum amount of orders,MIN,orders,amount,
+find the smallest salary in employees,MIN,employees,salary,
+show products ranked by price,ORDER_BY,products,price,
+show products ranked by price,ORDER_BY,products,price,
+lowest amount in orders,MIN,orders,amount,
+average salary of employees,AVG,employees,salary,
+sort customers by age,ORDER_BY,customers,age,
+sort employees by salary,ORDER_BY,employees,salary,
+find the top age in customers,MAX,customers,age,
+what is the minimum age of customers,MIN,customers,age,
+count orders where status is Cancelled,COUNT_WHERE,orders,status,Cancelled
+count customers where city is Mumbai,COUNT_WHERE,customers,city,Mumbai
+total number of customers,COUNT,customers,,
+list products whose category is Grocery,SELECT_WHERE,products,category,Grocery
+highest price in products,MAX,products,price,
+show me orders in status Shipped,SELECT_WHERE,orders,status,Shipped
+lowest salary in employees,MIN,employees,salary,
+show employees ranked by salary,ORDER_BY,employees,salary,
+sort customers by age,ORDER_BY,customers,age,
+show me the customers table,SELECT_ALL,customers,,
+what are the different category in products,DISTINCT,products,category,
+show me customers in city Bangalore,SELECT_WHERE,customers,city,Bangalore
+how many customers have city Mumbai,COUNT_WHERE,customers,city,Mumbai
+average price of products,AVG,products,price,
+find employees with city Delhi,SELECT_WHERE,employees,city,Delhi
+order products by price descending,ORDER_BY,products,price,
+show orders ranked by amount,ORDER_BY,orders,amount,
+show orders where status is Cancelled,SELECT_WHERE,orders,status,Cancelled
+count employees where department is Sales,COUNT_WHERE,employees,department,Sales
+lowest price in products,MIN,products,price,
+number of employees with city Chennai,COUNT_WHERE,employees,city,Chennai
+find orders with status Shipped,SELECT_WHERE,orders,status,Shipped
+find the smallest price in products,MIN,products,price,
+average price of products,AVG,products,price,
+what is the average amount in orders,AVG,orders,amount,
+get customers for city Delhi,SELECT_WHERE,customers,city,Delhi
+what are the different salary in employees,DISTINCT,employees,salary,
+order products by stock descending,ORDER_BY,products,stock,
+list all products,SELECT_ALL,products,,
+number of employees with city Delhi,COUNT_WHERE,employees,city,Delhi
+sort products by price,ORDER_BY,products,price,
+count products where category is Furniture,COUNT_WHERE,products,category,Furniture
+average amount of orders,AVG,orders,amount,
+what is the maximum amount of orders,MAX,orders,amount,
+list distinct salary from employees,DISTINCT,employees,salary,
+order orders by amount descending,ORDER_BY,orders,amount,
+list customers whose city is Mumbai,SELECT_WHERE,customers,city,Mumbai
+what are the different age in customers,DISTINCT,customers,age,
+show customers ranked by age,ORDER_BY,customers,age,
+what is the average salary in employees,AVG,employees,salary,
+order products by price descending,ORDER_BY,products,price,
+number of employees with city Bangalore,COUNT_WHERE,employees,city,Bangalore
+what are the different stock in products,DISTINCT,products,stock,
+find the top price in products,MAX,products,price,
+show me employees in department Marketing,SELECT_WHERE,employees,department,Marketing
+how many employees have city Delhi,COUNT_WHERE,employees,city,Delhi
+show me products in category Clothing,SELECT_WHERE,products,category,Clothing
+what is the minimum amount of orders,MIN,orders,amount,
+display every record in orders,SELECT_ALL,orders,,
+count employees where city is Bangalore,COUNT_WHERE,employees,city,Bangalore
+average amount of orders,AVG,orders,amount,
+what is the average salary in employees,AVG,employees,salary,
+highest age in customers,MAX,customers,age,
+show customers where city is Delhi,SELECT_WHERE,customers,city,Delhi
+list employees whose department is Marketing,SELECT_WHERE,employees,department,Marketing
+lowest price in products,MIN,products,price,
+how many orders have city Mumbai,COUNT_WHERE,orders,city,Mumbai
+what is the maximum amount of orders,MAX,orders,amount,
+sort employees by salary,ORDER_BY,employees,salary,
+find the mean amount for orders,AVG,orders,amount,
+what is the maximum salary of employees,MAX,employees,salary,
+find the mean salary for employees,AVG,employees,salary,
+how many orders have city Chennai,COUNT_WHERE,orders,city,Chennai
+what is the maximum price of products,MAX,products,price,
+sort employees by salary,ORDER_BY,employees,salary,
+find the smallest price in products,MIN,products,price,
+price in ascending order,ORDER_BY
+show products in ascending order,ORDER_BY
+sort products by price ascending,ORDER_BY
+order products by price ascending,ORDER_BY
+display products by increasing price,ORDER_BY
+list products ascending,ORDER_BY
+price ascending,ORDER_BY
+sort employees by salary ascending,ORDER_BY
+sort customers by age ascending,ORDER_BY
+price in descending order,ORDER_BY
+sort by price descending,ORDER_BY
+order products descending,ORDER_BY
+display products in decreasing order,ORDER_BY
